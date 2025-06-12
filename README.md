@@ -44,6 +44,12 @@ Tenho vivência prática com testes de **API REST** utilizando **Postman**, vali
 
 Estou sempre buscando evoluir, aprendendo novas ferramentas e práticas de qualidade, e aplicando meu conhecimento em projetos práticos. Busco colaborar com **times de tecnologia que valorizam qualidade, colaboração e entregas contínuas com confiança**.
 
+## 📊 GitHub Stats
+
+![Wellington's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WellingtonBrasil00&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonBrasil00&layout=compact&theme=radical)
+
 ---
 
 - 📧 Email: [wellingtonbrasil69@gmail.com](mailto:wellingtonbrasil69@gmail.com)  
@@ -52,4 +58,5 @@ Estou sempre buscando evoluir, aprendendo novas ferramentas e práticas de quali
 ---
 
 _Obrigado por visitar meu perfil!_ 🚀
+
 
