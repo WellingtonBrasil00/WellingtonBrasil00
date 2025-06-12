@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o WellingtoN Martins
+# 👋 Olá! Eu sou o Wellington Martins
 
 🔎 **Atuo com foco em Qualidade de Software**, com experiência em testes manuais e automatizados, sempre aplicando boas práticas para garantir entregas confiáveis e de alto valor.
 
@@ -45,8 +45,6 @@ Tenho vivência prática com testes de **API REST** utilizando **Postman**, vali
 Estou sempre buscando evoluir, aprendendo novas ferramentas e práticas de qualidade, e aplicando meu conhecimento em projetos práticos. Busco colaborar com **times de tecnologia que valorizam qualidade, colaboração e entregas contínuas com confiança**.
 
 ---
-
-## 📫 Contato
 
 - 📧 Email: [wellingtonbrasil69@gmail.com](mailto:wellingtonbrasil69@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/wellington-martins-6a145b269](https://www.linkedin.com/in/wellington-martins-6a145b269/)
